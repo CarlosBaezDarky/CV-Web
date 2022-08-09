@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,100;1,200;1,300&display=swap');
+body {
+    background-color: white;
+    margin: 7em;
+    font-family: 'Poppins';
+    border: solid 2px;
+}
+
+html{
+    background-color: rgb(68, 67, 67);
+}
+
+.container {
+    background-color: white;
+    text-align: left;
+    position: relative;
+    margin: 6% 0% 0% 30%;
+}
+
+p.container{
+    margin: 0px;
+}
+
+#imagen-Carlos{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: -17.5% 0% 0% 7%;
+}
+
+.aboutMe{
+    text-align: left;
+    position: relative;
+    margin: 5% 0% 0% 30%;
+}
+h2.aboutMe{
+    margin: 3% 0% -7% -30%;
+}
+
+img.aboutMe{
+    margin: 0px;
+    margin-left: 5px;
+    display: inline;
+    width: 30%;
+    border-radius: 2%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 10px;
+    margin-left: -38px;
+}
+
+.containerBottom{
+    background-color: white;
+    text-align: left;
+    position: relative;
+    margin: 6% 0% 6% 30%;
+}
+
+a:link{
+    text-decoration: none;
+    color: black;  
+}
+
+a:hover{
+    color: orangered;
+}
+a:visited{
+    color: green;
+}
